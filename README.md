@@ -13,10 +13,11 @@ The project definition allows for it to be created using a free Heroku account, 
   e.g. on windows:
   set HEROKU_API_KEY=1234567890
 * In variables.tf set the region.
-'''
+
+```
 terraform plan
 terraform apply
-'''
+```
 
 ## Notes
 ### Overview
